@@ -5,16 +5,16 @@ In this capstone, I will predict if the Falcon 9 first stage will land successfu
 
 ## Methods:
 ### 1. Data collection 
-included pulling records from the SpaceX REST API and web scraping public Wikipedia HTML data
+Included pulling records from the SpaceX REST API and web scraping public Wikipedia HTML data
 ### 2. Data cleaning and wrangling
-ensured data was prepped for exploratory analysis and machine learning model
+Ensured data was prepped for exploratory analysis and machine learning model
 ### 3. EDA
-consisted of data visualization of key parameters, SQL filtering and representation of data, and mapping of launch records using Folium
+Consisted of data visualization of key parameters, SQL filtering and representation of data, and mapping of launch records using Folium
 
 ## Results
-All SpaceX launch sites are near the coast and not in high latitude areas
-### The most successful launch site is KSC LC-39A
-### We can predict landing success using a decision tree ML model with 88.9% accuracy
+All SpaceX launch sites are near the coast and not in high latitude areas.
+The most successful launch site is KSC LC-39A.
+We can predict landing success using a decision tree ML model with 88.9% accuracy.
 
 ## Report
 The final report can be found
